@@ -1,5 +1,6 @@
-
-*{color:blue}
+*{
+  color:blue;
+}
 body{
   background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4ivOGvlx4UKBR5XhGM_Nbk0m6nEPw8YsKvC8hMQCrOzEbPCI");
   background-size:cover;
