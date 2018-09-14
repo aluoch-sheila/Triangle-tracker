@@ -2,7 +2,17 @@
   color:blue;
 }
 body{
-  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4ivOGvlx4UKBR5XhGM_Nbk0m6nEPw8YsKvC8hMQCrOzEbPCI");
+  background-image:url("http://portalsmo.club/wp-content/uploads/2018/04/house-plant-with-purple-under-leaves-has-shamrock-shaped-leaves-and-pretty-flowers-it-makes-a-great-indoor-plant-white-houseplant-purple-triangular-leaves.jpg");
   background-size:cover;
   background-repeat: no-repeat;
+}
+.container{
+  border:2px solid black;
+  padding:25px;
+  align-self: center;
+  text-align: center;
+  background-color: yellowgreen;
+  margin-top: 12%;
+  margin-left: 30%;
+  margin-right:30%;
 }
