@@ -9,9 +9,9 @@
       alert ("Isosceles ");
   }
    else {
-       alert ("Scaline");
-   }
-   // {
+       alert ("Scalene");
+   };
+      // {
    //     alert ("Isosceles ");
    // }
    // else if ((b == c) || (a == c )) {
